@@ -2,5 +2,30 @@
 /* CSS Document */
 
 body {
-	background-color: blueviolet;
+	background-color: lightgoldenrodyellow;
+	margin-left: 10%;
+	margin-right: 5%;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
+}
+Header{background-color: 
+	blue;
+padding-bottom:20px;}
+nav{
+	color:aliceblue
+	
+}
+ul{
+}
+li{
+	list-style-type:none;
+	display:inline;
+	margin-right: 10px;
+}
+
+.posttime{
+	color:darkred;
+	font-size: 0.7em;
+}
+h2,p, h3{
+	color: darkblue;
 }
