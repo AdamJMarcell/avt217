@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:silver;
+	margin-left: 10%;
+	margin-right: 5%;
+}
+Header{background-color: 
+	blue;
+padding-bottom:20px;
+font-family: "Gill Sans MT";}
+nav{
+	color:aliceblue
+	
+}
+ul{
+}
+
+.posttime{
+	color:darkred;
+	font-size: 0.7em;
+}
+h2,p,h3{
+	color: darkblue;
+	font-family: "Gill Sans";
+}
