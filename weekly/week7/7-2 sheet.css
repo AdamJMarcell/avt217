@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+div.Row1{
+width: 908px;
+height: 67px;
+angle: 0 deg;
+opacity: 1;
+background: #D57878;
+	margin-top: 20px;
+	display:flex;
+	flex-wrap:wrap;
+	flex: auto;
+}
+
+div.Row2{
+width: 908px;
+height: 31px;
+top: 82px;
+angle: 0 deg;
+opacity: 1;
+background: #B88B6A;
+	display:flex;
+	flex-wrap:wrap;
+	flex:auto;
+}
+
+section{ 
+	
+}
+
+div.column1{
+width: 207px;
+height: 382px;
+top: 128px;
+left: 16px;
+angle: 0 deg;
+opacity: 1;
+	float: left;
+	margin:0 5px;
+background: #CEB2A1;
+}
+
+div.column2{
+width: 207px;
+height: 382px;
+top: 128px;
+left: 239px;
+angle: 0 deg;
+opacity: 1;
+background: #CEB2A1;
+float: left;
+	margin:0 5px
+}
+
+div.column3{
+width: 207px;
+height: 382px;
+top: 128px;
+left: 462px;
+angle: 0 deg;
+opacity: 1;
+background: #CEB2A1;
+float: left;
+	margin:0 5px
+}
+
+div.column4{
+width: 207px;
+height: 382px;
+top: 128px;
+left: 685px;
+angle: 0 deg;
+opacity: 1;
+background: #CEB2A1;
+float: left;
+	margin:0 5px
+}
+
+div.Row3{
+	width: 908px;
+height: 55px;
+top: 523px;
+angle: 0 deg;
+opacity: 1;
+background: #743939;
+display:flex;
+	flex-wrap:wrap;
+	flex:auto;
+}
