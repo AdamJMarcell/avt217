@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+line-height: 1.9em;
+}
+#wrapper{
+	margin-left: 5%;
+	background-color: cornsilk;
+	float: left
+}
+h1{font-family: leida, sans-serif;
+font-style: normal;}
+a:link, a:visited {
+  color: green;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:active {
+	
+	
+	color:violet; 
+	text-decoration: underline;
+}
+
+a:hover {
+	background-color: lightblue;
+}
+
+.week{
+	width: 45%;
+	float: left;
+	margin-right: 0 5%;
+}
+#project{width: 45%;
+	float: left;
+}
+.demo{
+	
+  font-weight: 100;
+  font-style: italic;
+	color: brown;
+}
