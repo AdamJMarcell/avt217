@@ -13,6 +13,7 @@ body{
   font-variation-settings:
     "wdth" 100;
 line-height: 1.9em;
+		
 }
 .container footer{
 	height: 25px;
@@ -82,7 +83,8 @@ line-height: 1.9em;
     padding-left: 10px;
 	padding-right: 10px;
 }
-img{
+.img1{ padding-left: 10px;
+	padding-right: 10px;
 }
 .container footer h4 {
 	color:#840505;
