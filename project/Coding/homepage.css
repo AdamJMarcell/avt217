@@ -29,6 +29,29 @@ nav {
 	background-color:#115016;
 }
 
+h1{
+	text-align: center;
+	
+}
+
+p{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #115016;
+	font-weight: 200;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+line-height: 1.9em;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+img{
+	padding-left: 10px;
+	padding-right: 10px
+	
+}
+
 .navigation {
 	padding: 0;
 	margin: 0;
