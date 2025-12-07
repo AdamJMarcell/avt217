@@ -25,6 +25,12 @@ h1{padding-left: 10px;
 	padding-right: 10px;
 }
 
+h2{padding-left: 10px;
+	padding-right: 10px;
+	color:#840505;
+	font-size: 22px
+}
+
 nav {
 	margin: 0pc auto;
 	max-width: 100%;

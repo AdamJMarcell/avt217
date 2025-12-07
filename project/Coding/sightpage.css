@@ -25,6 +25,11 @@ line-height: 1.9em;
 h1{padding-left: 10px;
 	padding-right: 10px;
 }
+h2{
+	padding-left: 10px;
+	padding-right: 10px;
+	color:#840505;
+}
 
 nav {
 	margin: 0pc auto;
@@ -85,6 +90,11 @@ line-height: 1.9em;
 }
 .img1{ padding-left: 10px;
 	padding-right: 10px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 50%;
+	
 }
 .container footer h4 {
 	color:#840505;
